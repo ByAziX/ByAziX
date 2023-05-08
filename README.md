@@ -12,7 +12,7 @@
 
 
 <b>About me</b> <br>
-- :mortar_board: I’m currently studying on computer science
+- :mortar_board: I'am currently a student in computer science
 - 🌱 Passion for cybersecurity & Blockchain and learning it
 
 
