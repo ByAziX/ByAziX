@@ -6,7 +6,7 @@
 - :mortar_board: I’m currently studying on computer science
 - 🌱 Passion for cybersecurity & Blockchain and learning it
 
-<b>My social networks :</b><br>
+<b>My social networks :</b><br><br>
 <a href="https://twitter.com/ByAziX">
   <img align="left" alt="ByAziX's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
