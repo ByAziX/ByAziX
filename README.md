@@ -13,7 +13,7 @@
 
 <b>About me</b> <br>
 - :mortar_board: I am currently a computer science student
-- 🌱 Passion for cybersecurity & Blockchain
+- 🌱 Passionate about cybersecurity and blockchain
 
 
 
