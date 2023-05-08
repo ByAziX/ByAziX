@@ -19,7 +19,7 @@
 
 <br />
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=ByAziX&show_icons=true&theme=radical&line_height=33">
+  <img src = "https://github-readme-stats.vercel.app/api?username=ByAziX&show_icons=true&theme=radical&line_height=35">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ByAziX&hide_langs_below=.25&theme=radical">
 </p>
 
