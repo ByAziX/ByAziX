@@ -19,9 +19,6 @@
 <a href="https://www.instagram.com/ByAziX">
   <img align="left" alt="ByAziX's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="http://sudnyesht.ml">
-  <img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/write-dot-as.svg" />
-</a>
 <br />
 
 
