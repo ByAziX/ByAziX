@@ -12,7 +12,7 @@
 
 
 <b>About me</b> <br>
-- :mortar_board: I am currently a computer science student
+- :mortar_board: Cybersecurity engineer
 - 🌱 Passionate about cybersecurity and blockchain
 
 
